@@ -1,6 +1,6 @@
 {
   "name": "fit-reset",
-  "version": "2.0.43",
+  "version": "2.0.44",
   "description": "样式重置",
   "main": "lib/index.js",
   "scripts": {
